@@ -9,6 +9,8 @@
 ## 👥 Integrantes
 
 - **Pedro Soares de Souza — RM 571285**
+- **Olavo Dadario Vianna Barreto — RM 569272**
+- **Nome do Integrante 3 — RM XXXXX**
 - **Nome do Integrante 2 — RM XXXXX**
 - **Nome do Integrante 3 — RM XXXXX**
 
