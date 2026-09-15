@@ -1,0 +1,9 @@
+# CKP01 — Chatbot Profissional
+# Compatível com Python 3.11+.
+langchain-core>=1.0,<2.0
+langchain-ollama>=1.0,<2.0
+langchain-classic>=1.0,<2.0
+pydantic>=2.8,<3.0
+python-dotenv>=1.0,<2.0
+gradio>=6.0,<7.0
+tiktoken>=0.9,<1.0

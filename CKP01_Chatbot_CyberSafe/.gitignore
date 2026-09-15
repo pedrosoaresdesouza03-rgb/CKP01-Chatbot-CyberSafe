@@ -1,0 +1,6 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+context_rot_results.md
+meta_prompting_before_after.md
