@@ -7,6 +7,7 @@ from dotenv import load_dotenv
 
 ROOT_DIR = Path(__file__).resolve().parent.parent
 load_dotenv(ROOT_DIR / ".env")
+load_dotenv(ROOT_DIR / "app" / ".env")
 
 OLLAMA_API_KEY = os.getenv("OLLAMA_API_KEY")
 MODEL_NAME = "gemma4:cloud"

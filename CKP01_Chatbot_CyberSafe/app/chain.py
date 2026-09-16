@@ -57,18 +57,18 @@ def build_structured_chain(llm: ChatOllama | None = None):
 
     parser = PydanticOutputParser(pydantic_object=AnaliseConsulta)
 
-structured_prompt = ChatPromptTemplate.from_messages(
-    [
-        ("system", STRUCTURED_SYSTEM_PROMPT),
-        (
-            "human",
-            "Analise esta consulta de cibersegurança:\n{consulta}\n\n"
-            "{format_instructions}",
-        ),
-    ]
-)
+    structured_prompt = ChatPromptTemplate.from_messages(
+        [
+            ("system", STRUCTURED_SYSTEM_PROMPT),
+            (
+                "human",
+                "Analise esta consulta de cibersegurança:\n{consulta}\n\n"
+                "{format_instructions}",
+            ),
+        ]
+    )
 
-return structured_prompt | llm | parser
+    return structured_prompt | llm | parser
 
 def build_text_chain(llm: ChatOllama | None = None):
     """Pipeline LCEL simples para texto, útil para testes do projeto."""
