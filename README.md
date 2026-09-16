@@ -11,7 +11,7 @@
 - **Pedro Soares de Souza — RM 571285**
 - **Olavo Dadario Vianna Barreto — RM 569272**
 - **Jhon Cutile Titirico — RM 571976**
-- **Nome do Integrante 2 — RM XXXXX**
+- **Paulo Henrique Lira Bilac de Araujo — RM 569496**
 - **Nome do Integrante 3 — RM XXXXX**
 
 ---
