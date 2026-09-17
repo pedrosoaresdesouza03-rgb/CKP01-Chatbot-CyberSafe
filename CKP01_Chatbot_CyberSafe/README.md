@@ -6,11 +6,8 @@
 · PEDRO SOARES DE SOUZA (RM 571285)   
 · JHON CUTILE TITIRICO (RM571976)   
 · PAULO HENRIQUE LIRA BILAC DE ARAUJO (RM569496)   
-· PREENCHER NOME COMPLETO (RM00000)   
-· PREENCHER NOME COMPLETO (RM00000)   
-· PREENCHER NOME COMPLETO (RM00000)   
-
-> **Importante:** substitua os nomes e RMs acima antes da entrega e confirme que o domínio foi registrado pelo grupo na Aula 01.
+· MATEUS DE OLIVEIRA FERNANDES NEVES (RM 572431)   
+· OLAVO DADARIO VIANNA BARRETO (RM569272)     
 
 ## Domínio
 
