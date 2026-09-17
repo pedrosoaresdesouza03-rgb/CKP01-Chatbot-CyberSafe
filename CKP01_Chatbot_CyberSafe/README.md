@@ -2,7 +2,13 @@
 
 **Prompt Engineering & AI · FIAP · 2º Semestre 2026**
 
-**Integrantes:** PEDRO SOARES DE SOUZA (RM 571285) · PREENCHER NOME COMPLETO (RM00000) · PREENCHER NOME COMPLETO (RM00000)
+**Integrantes:**   
+· PEDRO SOARES DE SOUZA (RM 571285)   
+· JHON CUTILE TITIRICO (RM571976)   
+· PREENCHER NOME COMPLETO (RM00000)   
+· PREENCHER NOME COMPLETO (RM00000)   
+· PREENCHER NOME COMPLETO (RM00000)   
+· PREENCHER NOME COMPLETO (RM00000)   
 
 > **Importante:** substitua os nomes e RMs acima antes da entrega e confirme que o domínio foi registrado pelo grupo na Aula 01.
 
