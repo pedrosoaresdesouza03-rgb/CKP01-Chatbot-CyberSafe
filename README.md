@@ -12,7 +12,7 @@
 - **Olavo Dadario Vianna Barreto — RM 569272**
 - **Jhon Cutile Titirico — RM 571976**
 - **Paulo Henrique Lira Bilac de Araujo — RM 569496**
-- **Nome do Integrante 3 — RM XXXXX**
+- **Mateus de Oliveira Fernandes Neves — RM 572431**
 
 ---
 
